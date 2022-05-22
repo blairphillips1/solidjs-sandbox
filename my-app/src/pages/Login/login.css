@@ -1,0 +1,18 @@
+html,
+body { height: 100%;
+}
+.parent {
+height: 930px;
+background: #282c34;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.child {
+background-color: #04773B;
+width: 50%;
+height: 50%;
+display: flex;
+align-items: center;
+justify-content: center;
+}
